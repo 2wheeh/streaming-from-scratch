@@ -33,8 +33,8 @@ createServer(async (req, res) => {
         <script type="importmap">
           {
             "imports": {
-              "react": "https://esm.sh/react@canary",
-              "react-dom/client": "https://esm.sh/react-dom@canary/client"
+              "react": "https://esm.sh/react@18.3.1",
+              "react-dom/client": "https://esm.sh/react-dom@18.3.1/client"
             }
           }
         </script>
